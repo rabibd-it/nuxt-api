@@ -1,5 +1,5 @@
 <template>
-    <div>
-        wowo
-    </div>
+    <NuxtLayout>
+        <NuxtPage />
+    </NuxtLayout>
 </template>
